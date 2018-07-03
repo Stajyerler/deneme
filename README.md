@@ -1,2 +1,2 @@
-# deneme
-öernek
+# deneme.github.io
+örnek
